@@ -1,2 +1,2 @@
 
-![React-weather-app](../assets/weather-app.png)
+![React-weather-app](../blob/main/src/assets/weather-app.png)
